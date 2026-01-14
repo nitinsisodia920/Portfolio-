@@ -1,0 +1,7 @@
+{
+  "name": "Nitin's Portfolio - Futuristic 3D Developer Showcase",
+  "description": "A high-end, futuristic 3D personal portfolio for a software developer featuring interactive elements, glassmorphism, and deep technical insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
